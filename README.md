@@ -1,4 +1,5 @@
-# Stress_Detection_Prediction
+# Stress_Detection_Prediction with PSS CODE
+(Research Project)
 "A "Streamlit-based application for predicting Perceived Stress Scale (PSS) scores using machine learning models."
 # PSS Score Prediction
 <img src="https://github.com/rpjinu/Stress_Detection_Prediction/blob/main/stress_detection_image.png" width=600>
